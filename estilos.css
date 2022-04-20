@@ -1,0 +1,33 @@
+.contenedor{
+  
+    font-family: Verdana;
+    margin-top: 20px;
+}
+
+.verde{color: #30ff24;
+text-decoration: underline;
+}
+
+
+.rojo{ color: red;}
+
+
+.linea{
+    text-decoration: overline;
+    
+    
+}
+a:hover{ color: black;
+
+}
+    .grande{
+        font-size: 50px;
+        
+    }
+     .azul{ 
+         color: blue;
+     }
+    .rojo2{ 
+        color: red;
+        text-decoration: underline;
+    }
